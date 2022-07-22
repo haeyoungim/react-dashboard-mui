@@ -8,5 +8,5 @@ intellij에서 react-router-dom ver 6을 사용하면 Routes를 못참음.. <br>
 <br><br><br>
 추가로 넣을 기능<br>
 +다크모드<br>
-+chartJS
++chartJS<br>
 +mypage,main 페이지들 구성
