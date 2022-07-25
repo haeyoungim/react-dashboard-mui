@@ -4,7 +4,7 @@
 <Strong>React를 활용한 Dashboard<Strong>
 </h1>
 mui 사용 + react-sidebar 사용<br>
-intellij에서 react-router-dom ver 6을 사용하면 Routes를 못참음.. <br>스택오버플로우 보면서 해결하려 했지만 해결이 안됨 결국 ver 5 로 내리고 Switch 사용
+
 <br><br><br>
 추가계획 <br>
 +다크모드<br>
