@@ -4,8 +4,6 @@ import IconButton from "@material-ui/core/IconButton";
 import AccountCircle from "@material-ui/icons/AccountCircle";
 import Menu from "@material-ui/core/Menu";
 import MenuItem from "@material-ui/core/MenuItem";
-// import React, { useState } from 'react';
-// import Swal from 'sweetalert2';
 
 const Navbar = ({sidebarOpen, openSidebar}) => {
     const [anchorEl, setAnchorEl] = React.useState(null);
@@ -31,12 +29,6 @@ const Navbar = ({sidebarOpen, openSidebar}) => {
                 <div className="navbar_left">
                     <h4>Main</h4>
                 </div>
-
-                {/*<div className="nav" id="btn_mypage" onClick={getClick}>*/}
-                {/*    <a className="nav-link menu" id="btn_mypege" style={{ 'color': 'black' }} href="/mypage" onClick={(e) => {*/}
-                {/*    e.preventDefault();*/}
-                {/*    loginStart("mypage");*/}
-                {/*}}>MY PAGE</a></div>*/}
 
                 <div clasasName="navbar_right">
                     <IconButton
